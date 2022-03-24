@@ -1,4 +1,8 @@
-# Como utilizar operadores de comparação em Javascript
+# 7DaysOfCode Desafio 01 
+- Lógica JS 1/7: Operações Booleanas
+
+# Artigo
+## Como utilizar operadores de comparação em Javascript
 
 Imagine que você precise comparar dois valores dentro de uma condição para que ela seja cumprida. Mas como devemos utilizar cada operador para isso? Descubra aqui nesse artigo!
 
@@ -26,7 +30,7 @@ Quando analisamos a condição (numero > 0), podemos perceber que o símbolo ">"
 |||	      |Ou/or            |(a || b)     |
 
 
-# Diferença entre “==” e “===”
+## Diferença entre “==” e “===”
 
 É possível perceber na tabela acima, que existe tanto o símbolo de “igual a” (==), quanto o de “idêntico a” (===). Mas qual eu devo utilizar para cada situação? Se usarmos o operador “==” em uma condição, saberemos que ela só será verdadeira se o valor da esquerda for o mesmo valor da direita, por exemplo:
 
